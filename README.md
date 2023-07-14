@@ -1,10 +1,10 @@
 ### Hello There! 👋
 
-### I am a Computer Engineering major who is passionate about all things tech related.
+ I am a Computer Engineering major who is passionate about all things tech related.
 
-### One of my main interests in this field is Software Development.
+ One of my main interests in this field is Software Development.
 
-### Though I have a lot to learn, I am very excited to grow as a Software Developer and to share the knowledge that I acquire during my journey.
+ Though I have a lot to learn, I am very excited to grow as a Software Developer and to share the knowledge that I acquire during my journey.
 
  
  
