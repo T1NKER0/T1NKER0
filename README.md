@@ -9,7 +9,8 @@
  
  
  -> I’m currently working on reinforcing my knowledge of Data Structures & Algorithms.
- -> I’m currently learning Discrete Mathematics, Operating Systems, and Software Engineering Concepts.
+ 
+ -> I find myself learning Discrete Mathematics, Operating Systems, and Software Engineering Concepts.
 
  Some of the projects I have succesfully implemented include:
    - 4-Way Stoplight Intersection Using Logic Gates
