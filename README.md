@@ -30,7 +30,7 @@
     • Lab Hardware Maintenance / Troubleshooting
     • Electronic Circuitry Component
       Organization / Labeling
-     • OOP and Digital Logic Design Tutor
+    • OOP and Digital Logic Design Tutor
 
 ### Thank you for reading! 
 
