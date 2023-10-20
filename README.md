@@ -27,10 +27,12 @@
 ### JOB EXPERIENCE
    
     Electrical Engineering Lab Assistant:
-    • Lab Hardware Maintenance / Troubleshooting
+    • Laboratgory Hardware Maintenance / Troubleshooting
     • Electronic Circuitry Component
       Organization / Labeling
-    • OOP and Digital Logic Design Tutor
+      
+     Object-Oriented Programming and Digital Logic Design Tutor
+      • Responsible for helping and guiding students who participate in OOP and Digital Logic Design courses.
 
 ### Thank you for reading! 
 
