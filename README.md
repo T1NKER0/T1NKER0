@@ -27,7 +27,7 @@
 ### JOB EXPERIENCE
    
     Electrical Engineering Lab Assistant:
-    • Laboratgory Hardware Maintenance / Troubleshooting
+    • Laboratory Hardware Maintenance / Troubleshooting
     • Electronic Circuitry Component
       Organization / Labeling
       
