@@ -10,9 +10,17 @@
 
 ### PROGRESS
  
- • I’m currently working on reinforcing my knowledge of Data Structures & Algorithms.
+ • In the past year I have learned the following:
+
+ - Data Structures & Algorithms Analysis & Design
+ - Electronic Circuit Analysis & Design
+ - Database Design & Administration using MySQL
+ - Digital Logic Circuit Analysis & Design
+ - Discrete Mathematics
+ - Operating System functionality theory
+ - Software Engineering Design Methods
+
  
- • I find myself learning Discrete Mathematics, Operating Systems, and Software Engineering Concepts.
 
 ### PROJECTS ( in development)
 
