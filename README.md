@@ -10,8 +10,9 @@
 
 ### PROGRESS
  
- • In the past year I have learned the following:
+ • In my learning journey, I have become proficient with the following concepts:
 
+ - Object-Oriented Programming
  - Data Structures & Algorithms Analysis & Design
  - Electronic Circuit Analysis & Design
  - Database Design & Administration using MySQL
