@@ -13,7 +13,7 @@
  • In my learning journey, I have become proficient with the following concepts:
 
  - Object-Oriented Programming
- - Data Structures & Algorithms Analysis & Design
+ - Analysis and Design of Data Structures & Algorithms
  - Electronic Circuit Analysis & Design
  - Database Design & Administration using MySQL
  - Digital Logic Circuit Analysis & Design
