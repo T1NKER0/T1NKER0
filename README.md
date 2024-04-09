@@ -26,6 +26,7 @@
 ### PROJECTS ( in development)
 
  Some of the projects I have succesfully implemented include:
+   - Mini eBay: Bidding Based Online Store
    - 4-Way Stoplight Intersection Using Logic Gates
    - OS Process Scheduler and Memory Manager
    - Blackjack Game (Java)
