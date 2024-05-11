@@ -20,6 +20,8 @@
  - Discrete Mathematics
  - Operating System functionality theory
  - Software Engineering Design Methods
+ - Mobile, Web and Internet Programming
+ - Embedded Systems Application Development
 
  
 
@@ -27,6 +29,7 @@
 
  Some of the projects I have succesfully implemented include:
    - Mini eBay: Bidding Based Online Store
+   - Vitals and Temperature Monitoring System: Using Arduino UNO, ESP 32 and Server developed in Python
    - 4-Way Stoplight Intersection Using Logic Gates
    - OS Process Scheduler and Memory Manager
    - Blackjack Game (Java)
