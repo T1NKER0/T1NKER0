@@ -33,7 +33,6 @@
    - 4-Way Stoplight Intersection Using Logic Gates
    - OS Process Scheduler and Memory Manager (C++)
    - Blackjack Game (Java)
-   - Others: (I am currently in the process of re-evaluating some of my projects in order to find possible upgrades or modifications.)
 
      NOTE: There are more projects to be uploaded as soon as I finish working on them, I look forward to sharing the applications of
            everything that I learn in due time.
