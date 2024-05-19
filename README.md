@@ -16,9 +16,9 @@
  - Analysis and Design of Data Structures & Algorithms
  - Electronic Circuit Analysis & Design
  - Database Design & Administration using MySQL
- - Digital Logic Circuit Analysis & Design
+ - Digital Logic Analysis & Design
  - Discrete Mathematics
- - Operating System functionality theory
+ - Operating System functionality 
  - Software Engineering Design Methods
  - Mobile, Web and Internet Programming
  - Embedded Systems Application Development
@@ -28,16 +28,13 @@
 ### PROJECTS ( in development)
 
  Some of the projects I have succesfully implemented include:
-   - Mini eBay: Bidding Based Online Store (HTML, Java)
+   - Mini eBay: Android-Web Bidding Based Online Store Application (HTML, Java)
    - Vitals and Temperature Monitoring System: Using Arduino UNO, ESP 32 and Server developed in Python
+   - File Transfer Protocol Bookstore Management System (Java)
    - 4-Way Stoplight Intersection Using Logic Gates
    - OS Process Scheduler and Memory Manager (C++)
    - Blackjack Game (Java)
 
-     NOTE: There are more projects to be uploaded as soon as I finish working on them, I look forward to sharing the applications of
-           everything that I learn in due time.
-
-     
 ### JOB EXPERIENCE
    
     Electrical Engineering Lab Assistant:
