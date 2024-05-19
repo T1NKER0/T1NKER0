@@ -25,7 +25,7 @@
 
  
 
-### PROJECTS ( in development)
+### PROJECTS 
 
  Some of the projects I have succesfully implemented include:
    - Mini eBay: Android-Web Bidding Based Online Store Application (HTML, Java)
