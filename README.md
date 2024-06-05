@@ -3,7 +3,7 @@
  One of my main interests in this field is Software Development.
  Here you can see some of the projects I have developed and what technologies I am proficient in.</h3>
 
-## 👨‍💻 Projects (Available at: https://github.com/T1NKER0?tab=repositories](https://github.com/T1NKER0?tab=repositories)
+## 👨‍💻 Projects (Available at: https://github.com/T1NKER0?tab=repositories)
    - Mini eBay: Android-Web Bidding Based Online Store Application (HTML, Java, Tomcat)
    - Vitals and Temperature Monitoring System: Using Arduino UNO, ESP 32 and Server developed in Python
    - File Transfer Protocol Bookstore Management System (Java)
