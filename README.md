@@ -12,6 +12,9 @@
  
  • In my learning journey, I have become proficient with the following concepts:
 
+ - Software Engineering Design Methods
+ - Mobile, Web and Internet Programming
+ - Embedded Systems Application Development
  - Object-Oriented Programming
  - Analysis and Design of Data Structures & Algorithms
  - Electronic Circuit Analysis & Design
@@ -19,9 +22,7 @@
  - Digital Logic Analysis & Design
  - Discrete Mathematics
  - Operating System functionality 
- - Software Engineering Design Methods
- - Mobile, Web and Internet Programming
- - Embedded Systems Application Development
+
 
  
 
