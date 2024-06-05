@@ -29,7 +29,7 @@
 ### PROJECTS 
 
  Some of the projects I have succesfully implemented include:
-   - Mini eBay: Android-Web Bidding Based Online Store Application (HTML, Java)
+   - Mini eBay: Android-Web Bidding Based Online Store Application (HTML, Java, Tomcat)
    - Vitals and Temperature Monitoring System: Using Arduino UNO, ESP 32 and Server developed in Python
    - File Transfer Protocol Bookstore Management System (Java)
    - 4-Way Stoplight Intersection Using Logic Gates
@@ -38,17 +38,18 @@
 
 ### JOB EXPERIENCE
    
-    Electrical Engineering Lab Assistant:
+    - Electrical Engineering Lab Assistant:
     • Laboratory Hardware Maintenance / Troubleshooting
     • Electronic Circuitry Component
       Organization / Labeling
       
-     Object-Oriented Programming and Digital Logic Design Tutor
+     - Object-Oriented Programming and Digital Logic Design Tutor
       • Responsible for helping and guiding students who participate in OOP and Digital Logic Design courses.
 
-### Thank you for reading! 
+### Contact Information
+Discord: T1NKER0
 
-I look very forward to updating my profile as I progress through my journey of learning! :) 
+ 
  
 
 
