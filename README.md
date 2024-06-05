@@ -7,7 +7,7 @@
    - Mini eBay: Android-Web Bidding Based Online Store Application (HTML, Java, Tomcat)
    - Vitals and Temperature Monitoring System: Using Arduino UNO, ESP 32 and Server developed in Python
    - File Transfer Protocol Bookstore Management System (Java)
-   - 4-Way Stoplight Intersection Using Logic Gates
+   - 4-Way Stoplight Intersection Using Logic Gates (Logisim)
    - OS Process Scheduler and Memory Manager (C++)
    - Blackjack Game (Java)
 
