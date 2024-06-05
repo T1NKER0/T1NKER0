@@ -17,7 +17,7 @@
 </p>
 
  - Software Engineering 
- - Mobile and Web Application Development
+ - Android and Web Application Development
  - Embedded Systems Application Development
  - Object-Oriented Programming
  - Data Structures & Algorithms
