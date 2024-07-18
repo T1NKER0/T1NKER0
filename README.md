@@ -28,6 +28,7 @@
  - Logic Circuits
  - Discrete Mathematics
  - Operating Systems
+ - Unity Development Essentials
 
  ### 📫 How to reach me **marcossantana.edu@gmail.com**
 
