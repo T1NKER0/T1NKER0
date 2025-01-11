@@ -5,7 +5,7 @@
 
 ## 👨‍💻 Projects (Available at: https://github.com/T1NKER0?tab=repositories)
    - Mini eBay: Android-Web Bidding Based Online Store Application (HTML, Java, Tomcat)
-   - AR-NATOMY Web App: Student grading information web application for a Unity Mixed-Reality Anatomy Learning Platform
+   - AR-NATOMY Web App: Student grading information web application for a Unity Mixed-Reality Human Anatomy Learning Platform
    - Vitals and Temperature Monitoring System: Using Arduino UNO, ESP 32 and Server developed in Python
    - File Transfer Protocol Bookstore Management System (Java)
    - 4-Way Stoplight Intersection Using Logic Gates (Logisim)
