@@ -1,6 +1,6 @@
 <h1 align="center">Hello There!👋 The name is Marcos.</h1>
 <h3 align="center"> I am a Computer Engineer who is passionate about all things tech related.
- One of my main interests in this field is Software Development.
+ One of my main interests is Software Development.
  Here you can see some of the projects I have developed and what technologies I am proficient in.</h3>
 
 ## 👨‍💻 Projects (Available at: https://github.com/T1NKER0?tab=repositories)
