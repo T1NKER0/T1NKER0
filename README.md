@@ -13,7 +13,7 @@
    - File Transfer Protocol Bookstore Management System (Java)
      * Link: https://github.com/T1NKER0/Bookstore-Management-System
    - 4-Way Stoplight Intersection Using Logic Gates (Logisim)
-     * Link: https://github.com/T1NKER0/Bookstore-Management-System
+     * Link: https://github.com/T1NKER0/DIGITAL_LOGIC_4_WAY_TRAFFIC_LIGHT_CONTROL
    - OS Process Scheduler and Memory Manager (C++)
      * Link: https://github.com/T1NKER0/Operating_Systems_Process_Scheduler_and_Memory_Manager
    - Blackjack Game (Java)
