@@ -10,6 +10,8 @@
      * Link: https://github.com/T1NKER0/AR-NATOMY
    - Vitals and Temperature Monitoring System: Using Arduino UNO, ESP 32 and Server developed in Python
      * Link: https://github.com/T1NKER0/Vitals-Monitoring-System
+   - IT Ticketing System: Built using Flutter, node.js API and MySQL Database
+     * Link: https://github.com/T1NKER0/IT-Ticketing-System
    - File Transfer Protocol Bookstore Management System (Java)
      * Link: https://github.com/T1NKER0/Bookstore-Management-System
    - 4-Way Stoplight Intersection Using Logic Gates (Logisim)
