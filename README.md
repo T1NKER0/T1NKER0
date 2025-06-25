@@ -4,6 +4,8 @@
  Here you can see some of the projects I have developed and what technologies I am proficient in.</h3>
 
 ## 👨‍💻 Projects 
+   - Online Video Game Store: Playstation Store Dummy Site built using React, node.js and MySQL
+     * Link: https://github.com/T1NKER0/Online-Video-Game-Store
    - Mini eBay: Android-Web Bidding Based Online Store Application (HTML, Java, Tomcat)
      * Link: https://github.com/T1NKER0/Mini-eBay
    - AR-NATOMY Web App: Student grading information web application for a Unity Mixed-Reality Human Anatomy Learning Platform
