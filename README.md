@@ -13,7 +13,7 @@
    - AR-NATOMY Web App: Student grading information web application for a Unity Mixed-Reality Human Anatomy Learning Platform
      * Link: https://github.com/T1NKER0/AR-NATOMY
        <br> <b> Tech Stack: </b> <br> [![My Skills](https://skillicons.dev/icons?i=java,mysql,html,css)](https://skillicons.dev)
-   - Vitals and Temperature Monitoring System: Using Arduino UNO, ESP 32 and Server developed in Python
+   - Vitals and Temperature Monitoring System: Using Arduino UNO, ESP 32, a Server developed in Python and a MySQL Database
      * Link: https://github.com/T1NKER0/Vitals-Monitoring-System
        <br> <b> Tech Stack: </b> <br> [![My Skills](https://skillicons.dev/icons?i=arduino,cpp,python,mysql)](https://skillicons.dev)
    - IT Ticketing System: Built using Flutter, node.js API and MySQL Database
