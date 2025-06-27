@@ -1,5 +1,5 @@
 <h1 align="center">Hello There!👋 The name is Marcos.</h1>
-<h3 align="center"> I am a Computer Engineer who is passionate about all things tech related.
+<h3 align="center"> I am a Computer Engineer who is passionate about all things tech.
  Software Development is one of my main interests.
  Here you can see some of the projects I have developed and what technologies I am proficient in.</h3>
 
