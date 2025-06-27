@@ -3,7 +3,7 @@
  Software Development is one of my main interests.
  Here you can see some of the projects I have developed and what technologies I am proficient in.</h3>
 
-## 👨‍💻 Projects 
+## 🚀 Projects 
    - Online Video Game Store: Playstation Store Dummy Site built using React, node.js and MySQL
      * Link: https://github.com/T1NKER0/Online-Video-Game-Store
        <br> <b> Tech Stack: </b> <br> [![My Skills](https://skillicons.dev/icons?i=react,nodejs,mysql)](https://skillicons.dev)
@@ -31,10 +31,10 @@
      * Link: https://github.com/T1NKER0/Java_Blackjack_Game
        <br> <b> Tech Stack: </b> <br> [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 
-## <h3 align="left">Technologies, Frameworks and Programming Languages</h3>
+ ## ⚛️ Technologies, Frameworks and Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=arduino,react,flutter,flask,androidstudio,mysql,postgres,nodejs,html,css,js,ts,java,cpp,python,cs,git,linux,unity)](https://skillicons.dev)
 
-## <h3 align="left">General Skills</h3>
+## 💡 General Skills
 
  - Software Engineering 
  - Android and Web Application Development
