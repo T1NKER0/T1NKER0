@@ -26,7 +26,7 @@
      * Link: https://github.com/T1NKER0/DIGITAL_LOGIC_4_WAY_TRAFFIC_LIGHT_CONTROL
    - OS Process Scheduler and Memory Manager (C++)
      * Link: https://github.com/T1NKER0/Operating_Systems_Process_Scheduler_and_Memory_Manager
-       <br> <b> Tech Stack: </b> <br> [![My Skills](https://skillicons.dev/icons?i=c++)](https://skillicons.dev)
+       <br> <b> Tech Stack: </b> <br> [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
    - Blackjack Game (Java)
      * Link: https://github.com/T1NKER0/Java_Blackjack_Game
        <br> <b> Tech Stack: </b> <br> [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
