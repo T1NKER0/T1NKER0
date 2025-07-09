@@ -9,9 +9,9 @@
   🔗 [Go to Repository](https://github.com/T1NKER0/Online-Video-Game-Store)  
   💻 **Tech Stack:** <br>[![My Skills](https://skillicons.dev/icons?i=react,nodejs,mysql)](https://skillicons.dev)
 
-- **Mini eBay**: Android-Web bidding-based online store application using Java, HTML, and Tomcat.  
+- **Mini eBay**: Android-Web bidding-based online store application using Java, HTML, and Tomcat. Includes a complementary Android Application. 
   🔗 [Go to Repository](https://github.com/T1NKER0/Mini-eBay)  
-  💻 **Tech Stack:**<br> [![My Skills](https://skillicons.dev/icons?i=java,mysql,html)](https://skillicons.dev)
+  💻 **Tech Stack:**<br> [![My Skills](https://skillicons.dev/icons?i=java,mysql,html,androidstudio)](https://skillicons.dev)
 
 - **AR-NATOMY Web App**: Student grading information web app for a Unity Mixed-Reality Human Anatomy learning platform.  
   🔗 [Go to Repository](https://github.com/T1NKER0/AR-NATOMY)  
